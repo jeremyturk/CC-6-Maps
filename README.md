@@ -10,3 +10,5 @@ The data (`Gyps_rueppellii_GBIF.csv`, `Spheniscus_dermersus_GBIF.csv`) were down
 For more about Coding Club, please see https://ourcodingclub.github.io/
 
 We would love to hear your feedback on the tutorial, whether you did it in the classroom or online: __SURVEY MONKEY LINK__
+
+This is a line from RStudio
